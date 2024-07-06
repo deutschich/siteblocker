@@ -1,2 +1,2 @@
 # siteblocker
-Geplant für https://github.com/pi-hole/pi-hole
+For https://github.com/pi-hole/pi-hole
