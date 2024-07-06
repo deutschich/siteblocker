@@ -1,0 +1,15 @@
+# this list is against Microsoft.
+
+0.0.0.0 0.0.0.0
+0.0.0.0 bing.com
+0.0.0.0 office.com
+0.0.0.0 microsoft.com
+0.0.0.0 www.bing.com
+0.0.0.0 www.microsoft.com
+0.0.0.0 www.office.com
+0.0.0.0 fe2cr.update.microsoft.com
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 *.windowsupdate.microsoft.com
+0.0.0.0 *.update.microsoft.com
+0.0.0.0 *.download.windowsupdate.com
+0.0.0.0 download.microsoft.com
